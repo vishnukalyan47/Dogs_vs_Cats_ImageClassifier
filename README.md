@@ -1,1 +1,1 @@
-# Dogs_vs_Cats_ImageClassifier
+# Dogs vs Cats ImageClassifier
